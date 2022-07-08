@@ -5,6 +5,8 @@ import RandomButton from "./RandomButton";
 import PlaneteersContainer from "./PlaneteersContainer";
 import SearchBar from "./SearchBar";
 
+console.log('Hello')
+
 function App() {
   return (
     <div>
